@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-course-61e8c": {
+      "hosting": {
+        "angular-firebase-course": [
+          "angular-firebase-course-61e8c"
+        ]
+      }
+    }
+  }
+}
